@@ -1,3 +1,6 @@
+// TEXT
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap');
+$ff-logo: Raleway, sans-serif;
 
 // COLORS
 $main-bg: #ffffff;
@@ -14,9 +17,6 @@ $footer-nav: rgba(255, 255, 255, 0.6);
 $social-icon: #afb1b8;
 $form-border: rgba(33, 33, 33, 0.2);
 $footer-email: rgba(255, 255, 255, 0.3);
-
-// TEXT
-$ff-logo: Raleway, sans-serif;
 
 // MIXIN
 @mixin header-link{
